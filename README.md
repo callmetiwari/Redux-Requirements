@@ -22,3 +22,5 @@ reducer
 functions dependence on actions an for changing
 
 
+
+first basin setup for store -> then think about the actions-> then think about reducers -> then finally reducers are passed to store
